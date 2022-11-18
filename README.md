@@ -9,6 +9,7 @@ Important Instructions: We've used our own model path in the app.py script, to r
  i.e change the path 
  
  model1=load_model(r'D:\Usman\IBM Project\Model\body.h5')
+ 
  model2=load_model(r'D:\Usman\IBM Project\Model\level.h5') 
  
  to whatever path in which your models are stored.
